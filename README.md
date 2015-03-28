@@ -6,10 +6,6 @@ Directive for initializing Owl Carousel in AngularJS ng-repeat
 ```shell
 npm install owl-carousel-ng-repeat --save
 ```
-##Bower
-```shell
-bower install owl-carousel-ng-repeat --save
-```
 
 #Usage
 Add source file to your view
