@@ -1,4 +1,4 @@
-# OwlCarouselNgRepeat
+# ng-repeat Owl Carousel
 Directive for initializing Owl Carousel in AngularJS ng-repeat
 
 #Download
